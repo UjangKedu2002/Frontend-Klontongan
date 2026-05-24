@@ -139,7 +139,7 @@ const PlatformLayout: React.FC<{ children: React.ReactNode }> = ({
               <span className="font-display font-extrabold tracking-tight text-white text-base sm:text-lg">
                 Klontongan{" "}
                 <span className="bg-gradient-to-r from-indigo-400 to-purple-400 bg-clip-text text-transparent font-black italic">
-                  All Product
+                  All Brand Product Fashion
                 </span>
               </span>
             </Link>

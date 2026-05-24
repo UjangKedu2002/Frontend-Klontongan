@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Frontend Portal",
+  "description": "A high-performance modern React client for a full-stack e-commerce system connecting PostgreSQL, Prisma, and Midtrans payment services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
